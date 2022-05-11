@@ -1,0 +1,5 @@
+C:\Users\alex\Downloads\BadPotato\bin\Release\BadPotato.exe.config
+C:\Users\alex\Downloads\BadPotato\bin\Release\BadPotato.exe
+C:\Users\alex\Downloads\BadPotato\obj\Release\BadPotato.csprojAssemblyReference.cache
+C:\Users\alex\Downloads\BadPotato\obj\Release\BadPotato.csproj.CoreCompileInputs.cache
+C:\Users\alex\Downloads\BadPotato\obj\Release\BadPotato.exe
